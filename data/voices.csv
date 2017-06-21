@@ -77,6 +77,10 @@ engine_id , lang , name       , voice_id , gender , description
 3         , zh   , Lily       , 1        , F      , Mandarin
 3         , zh   , Hui        , 3        , F      , Mandarin
 3         , zh   , Liang      , 4        , M      , Mandarin
+3         , zh   , Qiang      , 5        , M      , Mandarin
+3         , zh   , Kaho       , 6        , M      , Mandarin
+3         , zh   , Kayan      , 7        , F      , Cantonese
+3         , zh   , Yafrang    , 8        , F      , Taiwanese
 3         , ja   , Show       , 2        , M
 3         , ja   , Misaki     , 3        , F
 3         , ko   , Yumi       , 1        , F
